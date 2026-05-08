@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhik-mudi" alt="abhik-mudi" /></a> </p>
 
-- 🔭 I’m currently working on [QuickBlog](https://github.com/Abhik-Mudi/QuickBlog)
+- 🔭 I’m currently working on [DeviceDada](https://github.com/Abhik-Mudi/DeviceDada)
 
 - 🌱 I’m currently learning **NextJS,**
 
