@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhik Mudi</h1>
 <h3 align="center">A MERN stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhik-mudi" alt="abhik-mudi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=abhik-mudi" alt="abhik-mudi" /></a> </p>
 
 - 🔭 I’m currently working on [DeviceDada](https://github.com/Abhik-Mudi/DeviceDada)
 
