@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abhik Mudi</h1>
-<h3 align="center">A MERN stack developer from India</h3>
+<h3 align="center">A Fullstack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=abhik-mudi" alt="abhik-mudi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=abhik-mudi" alt="abhik-mudi" /></a> </p>
 
-- 🔭 I’m currently working on [DeviceDada](https://github.com/Abhik-Mudi/DeviceDada)
+- 🔭 **I’m currently working on** building NutriScan (a multimodal AI PWA), scaling MERN stack architectures.
 
-- 🌱 I’m currently learning **NextJS,**
+- 👯 **I’m looking to collaborate on** impactful open-source projects, high-stakes hackathons, and scalable web applications.
 
-- 📫 How to reach me **abhikmudi6@gmail.com**
+- 🤝 **I’m looking for help with** tackling advanced competitive programming constraints (Codeforces/CodeChef) and optimizing multi-container Docker deployments.
+
+- 🌱 **I’m currently learning** advanced system design, containerization, and mastering complex data structures.
+
+- 💬 **Ask me about** full-stack JavaScript, surviving intense hackathon sprints, or building robust APIs.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
